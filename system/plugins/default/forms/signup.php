@@ -10,10 +10,10 @@
  */
 ?>
 <div class="form-inline">
-	<div class="form-group ossn-form-group-half">
+	<div class="form-group ossn-form-group">
 	    <input type="text" class="form-control" name="firstname" placeholder="<?php echo ossn_print('first:name'); ?>"/>
     </div>
-    <div class="form-group ossn-form-group-half"> 	   
+    <div class="form-group ossn-form-group"> 	   
 	    <input type="text" class="form-control" name="lastname" placeholder="<?php echo ossn_print('last:name'); ?>"/>
     </div>
 </div>
